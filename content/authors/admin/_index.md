@@ -1,169 +1,49 @@
 ---
-# Display name
-title: Alex Johnson
+title: "白健行 | Bai Jianxing"
+role: "PhD in Ethics, Fudan University"
+bio: "研究方向：康德伦理共同体、世界公民法与“好客伦理”的跨文化诠释；哲学人类学与政治哲学；宗教与世俗性。"
+organization: "山东大学哲学与社会发展学院外国哲学系"
+avatar: "avatar.jpg"
 
-# Name pronunciation (optional)
-name_pronunciation: ''
-
-# Full name (for SEO)
-first_name: Alex
-last_name: Johnson
-
-# Pronouns (optional)
-pronouns: he/him
-
-# Status emoji
-status:
-  icon: 🚀
-
-# Is this the primary user of the site?
-superuser: true
-
-# Highlight the author in author lists? (true/false)
-highlight_name: true
-
-# Role/position/tagline
-role: Senior AI Research Scientist
-
-# Organizations/Affiliations to display in Biography blox
-organizations:
-  - name: Meta AI
-    url: https://ai.meta.com/
-
-# Social network links
-# Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
-profiles:
-  - icon: at-symbol
-    url: 'mailto:alex.johnson@meta.com'
-    label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/AlexAIResearch
-  - icon: brands/github
-    url: https://github.com/alexjohnsonai
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnsonai/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=alexjohnson
-  - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
-
+# 研究兴趣（首页作者卡可显示）
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - 康德：伦理共同体 / 世界公民 / 好客权利
+  - 跨文化诠释学与比较哲学
+  - 政治哲学/哲学人类学
+  - 宗教与世俗性、数字宗教现象
 
 education:
-  - area: PhD Computer Science (AI Focus)
-    institution: Stanford University
-    date_start: 2015-09-01
-    date_end: 2019-06-30
-    summary: |
-      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com/thesis.pdf'
-  - area: MS Computer Science
-    institution: Carnegie Mellon University
-    date_start: 2013-09-01
-    date_end: 2015-05-31
-    summary: |
-      GPA: 4.0/4.0
+  courses:
+   - course: Post Ph.D. in Philosophy
+      institution: 山东 University
+      year: 2025
+    - course: Ph.D. in Ethics
+      institution: Fudan University
+      year: 2021-2025
+    - course: Visiting Doctoral Researcher
+      institution: Humboldt-Universität zu Berlin
+      year: 2023–2024
+    - course: M.A. (Philosophy/Religious Studies)
+      institution: CASS 
+      year: 2018-2021
+    - course: B.A. (Philosophy)
+      institution:Shandong University
+      year: 2014-2018
 
-      Specialized in machine learning and robotics.
-  - area: BS Computer Science
-    institution: MIT
-    date_start: 2009-09-01
-    date_end: 2013-05-31
-    summary: |
-      GPA: 3.9/4.0
-
-      Minored in Mathematics. President of AI Club.
-
-work:
-  - position: Senior AI Research Scientist
-    company_name: Meta AI
-    company_url: 'https://ai.meta.com/'
-    company_logo: ''
-    date_start: 2020-01-01
-    date_end: ''
-    summary: |2-
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
-  - position: AI Research Intern
-    company_name: OpenAI
-    company_url: 'https://openai.com/'
-    company_logo: ''
-    date_start: 2019-06-01
-    date_end: 2019-12-31
-    summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
-
-# Skills
-# Add your own SVG icons to `assets/media/icons/`
-skills:
-  - name: Technical Skills
-    items:
-      - name: Python & PyTorch
-        description: ''
-        percent: 95
-        icon: code-bracket
-      - name: Machine Learning
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: Cloud Computing (AWS/GCP)
-        description: ''
-        percent: 85
-        icon: cloud
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking in the Rockies
-        description: ''
-        percent: 80
-        icon: person-simple-walk
-      - name: Building Custom PCs
-        description: ''
-        percent: 90
-        icon: cpu-chip
-      - name: Sci-Fi Reading
-        description: ''
-        percent: 70
-        icon: book-open
-
-languages:
-  - name: English
-    percent: 100
-  - name: Spanish
-    percent: 50
-
-# Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
-  - title: Best Paper Award
-    url: https://neurips.cc/
-    date: '2022-12-01'
-    awarder: NeurIPS
-    icon: hero/trophy
-    summary: |
-      Awarded for groundbreaking work on efficient training of large models.
-  - title: AI Innovation Grant
-    url: https://www.nsf.gov/
-    date: '2021-06-15'
-    awarder: National Science Foundation
-    icon: hero/currency-dollar
-    summary: |
-      $500,000 grant for research in ethical AI development.
-  - title: Outstanding PhD Thesis
-    url: https://www.stanford.edu/
-    date: '2019-06-30'
-    awarder: Stanford University
-    icon: hero/academic-cap
-    summary: |
-      Recognized for contributions to scaling laws in deep learning.
+# 可覆盖全局社交（可留空使用全局设置）
+social:
+  - icon: google-scholar
+    icon_pack: ai
+    link: "https://scholar.google.com/"
+  - icon: orcid
+    icon_pack: ai
+    link: "https://orcid.org/0000-0002-XXXX-YYYY"
+  - icon: github
+    icon_pack: fab
+    link: "https://github.com/baijianxing"
+  - icon: envelope
+    icon_pack: fas
+    link: "mailto:you@example.com"
 ---
 
-Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
+我是一名伦理学方向的研究者，关注康德“伦理共同体”的规范结构及其在全球伦理与跨文化语境中的展开，尤其聚焦“世界公民法”与“好客伦理”的当代意义。同时，我开展关于哲学人类学与青年政治哲学的质性研究，并对宗教与世俗性的互动（含数字宗教现象）保持兴趣。近期工作包括：康德人类学/政治哲学的文本研究、跨文化“好客伦理”模型的重构，以及青年政治叙事从“可见”到“不可见”的平台转向分析等。
